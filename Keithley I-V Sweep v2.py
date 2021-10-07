@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Keithley I-V Sweep
-Demis John, October 2014
+Demis D. John, October 2014, Univ. of California Santa Barbara
 
 Program to sweep voltage & measure current on Keithley SMU
 Known bugs: With PythonXY, the plot window opens *behind* the current window.
@@ -11,7 +11,7 @@ Edit/Run this file via Python(x,y) (click the 1st button to open the Spyder IDE)
 Installed PyVISA for GPIB communication.
 
 Spyder Editor. 
-Based off Steve Nichols' Script from ~2010
+Based off Steve Nichols' Script from ~2010, Univ. of California Santa Barbara
 """
 
 SaveFiles = True   # Save the plot & data?  Only display if False.
