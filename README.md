@@ -8,3 +8,4 @@ Sweep parameters are at the top.  Option to save plots and data files.
 ![Example I-V Plot](media/I-V_Curve_[2014-43-01_1443.13].png)
 
 -- [Demis D. John](mailto:demis@ucsb.edu), Univ. of California Santa Barbara / [nanotech.ucsb.edu](http://www.nanotech.ucsb.edu)
+-- Based off Steve Nichols' script from 2010, Univ. of California Santa Barbara
